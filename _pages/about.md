@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Cadidate from [Peking Union Medical college](https://www.imm.ac.cn/), [Peking Union Medical college (Tsinghua University Health Science Center)](http://www.cams.ac.cn). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a PhD Cadidate from [Institute of Materia Medical college](https://www.imm.ac.cn/), [Peking Union Medical College (Tsinghua University Health Science Center)](http://www.cams.ac.cn). My research interest includes computer-aidded drug design (CADD), medicinal chemistry, molecular design, and cheminformatics.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am advised by Prof. Song Wu & Jie Xia from Institute of Materia Medical college, Peking Union Medical College. I was advised by [Prof. Yuan Huang](https://gr.xjtu.edu.cn/web/huangyuan/home) from [School of Pharmacy](https://pharm.xjtu.edu.cn/), Xi’an Jiaotong University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Gao Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](gao.zhang2000@outlook.com)
 
 
 A data-driven personal website
