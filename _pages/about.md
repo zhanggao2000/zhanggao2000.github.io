@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Cadidate from [Institute of Materia Medical college](https://www.imm.ac.cn/), [Peking Union Medical College (Tsinghua University Health Science Center)](http://www.cams.ac.cn). My research interest includes computer-aidded drug design (CADD), medicinal chemistry, molecular design, and cheminformatics.
+I'm a PhD Cadidate from [Institute of Materia Medical college](https://www.imm.ac.cn/), [Peking Union Medical College (Tsinghua University Health Science Center)](http://www.cams.ac.cn). My research interest includes computer-aidded drug design (CADD) and medicinal chemistry.
 
 I am advised by Prof. Song Wu & Jie Xia from Institute of Materia Medical college, Peking Union Medical College. I was advised by [Prof. Yuan Huang](https://gr.xjtu.edu.cn/web/huangyuan/home) from [School of Pharmacy](https://pharm.xjtu.edu.cn/), Xi’an Jiaotong University.
 
